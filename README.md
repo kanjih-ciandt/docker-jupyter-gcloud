@@ -8,7 +8,7 @@ $ docker build -t <image_name> .
 #### Run docker
 
 ```sh
-$ docker run -p 8888:8888 <image_name> .
+$ docker run -p 8888:8888 <image_name>
 ```
 
 
